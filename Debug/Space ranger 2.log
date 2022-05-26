@@ -1,0 +1,33 @@
+﻿  playgame.cpp
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(163,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(166,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(168,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(169,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(170,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(171,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(172,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(229,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(250,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(272,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(319,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(379,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(438,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(450,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(506,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(520,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(585,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(843,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(847,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(880,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(884,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(917,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(936,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1014,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1031,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1044,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1132,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1162,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\playgame.cpp(1197,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Space ranger 2.vcxproj -> C:\Users\Muhammad Danial\Downloads\Projects\C++ Projects\Space ranger 2\Debug\Space ranger 2.exe
