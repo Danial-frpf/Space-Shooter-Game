@@ -6,7 +6,7 @@ To play the game:
 1) First download it from https://drive.google.com/file/d/1oHolhGwemSSuSs9-hm0CNw3-jg7la8gr/view?usp=sharing
 2) Extract the files
 3) Run the spacerange2.exe file
-4) If the game doesn't start install the packages in redistrivutor folder(Optional)
+4) If the game doesn't start install the packages in redistributor folder(Optional)
 
 ## Source Code Installation
 The project requires VisualStudio 2019
